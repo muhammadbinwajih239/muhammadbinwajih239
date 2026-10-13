@@ -1,88 +1,114 @@
-# Hi, I'm Muhammad Bin Wajih 👋
 
-### AI & Data Science Learner | Python Programmer in Progress | Future AI Developer
+<h1 align="center">Hi, I'm Muhammad Bin Wajih 👋</h1>
 
-I'm building my foundation in programming and web technologies while progressing toward Artificial Intelligence and Data Science. I enjoy learning by writing code, solving problems, and developing practical projects.
+<h3 align="center">AI & Data Science Learner | Python | Machine Learning | Generative AI</h3>
 
-My goal is to grow from programming fundamentals to building useful, data-driven applications and AI solutions.
+<p align="center">
+  Building a strong foundation in programming, data analysis, and practical AI applications.
+</p>
+
+<p align="center">
+  <a href="https://github.com/muhammadbinwajih239">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-bin-wajih/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🐍 Currently learning **Python programming and programming fundamentals**
-- 🌐 Exploring web technology foundations, including **HTML and CSS**
-- 📚 Studying Artificial Intelligence and Data Science through a structured learning program
-- 🧠 Interested in Machine Learning, Deep Learning, Generative AI, and AI Agents
-- 🛠️ Focused on hands-on practice, practical projects, and continuous improvement
-- 🎯 Working toward building a strong, project-based technical portfolio
+I'm currently studying Artificial Intelligence and Data Science through a structured training program.
 
----
+My focus is on learning programming fundamentals, understanding data, and gradually building practical software and AI projects.
 
-## 🛠️ Technologies & Learning
+- 🐍 Learning Python and problem-solving
+- 📊 Exploring Data Science, data cleaning, and visualization
+- 🧮 Studying mathematics and statistics for Machine Learning
+- 🤖 Building toward Machine Learning and Deep Learning
+- 🧠 Exploring Large Language Models, Generative AI, and AI Agents
+- 🛠️ Practising through coding exercises and hands-on projects
+- 📍 Based in Karachi, Pakistan
 
-### Current Focus
+## 🧭 Learning Roadmap
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python learning"/>
-  <img src="https://img.shields.io/badge/HTML-Foundations-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML foundations"/>
-  <img src="https://img.shields.io/badge/CSS-Web_Foundations-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS web foundations"/>
-</p>
-
-### My AI & Data Science Learning Roadmap
+My course covers the following areas:
 
 | Area | Topics |
 |---|---|
-| Python for Data Science | NumPy, Pandas, Data Cleaning, Data Visualization |
-| Mathematics & Statistics | Probability, Statistics, Linear Algebra, Hypothesis Testing |
-| Machine Learning | Data Preprocessing, Feature Engineering, Model Evaluation |
-| Deep Learning | Neural Networks, Computer Vision, Natural Language Processing |
-| MLOps | FastAPI, Docker, MLflow, CI/CD, Monitoring |
-| Big Data & Cloud | Apache Spark, Cloud Computing |
-| Generative AI | LLMs, Transformers, Prompt Engineering, RAG, Vector Databases |
-| Agentic AI | AI Agents, Tool Use, Planning, Multi-Agent Systems |
+| Python Programming | Data types, functions, OOP, file handling |
+| Data Science | NumPy, Pandas, data cleaning, visualization |
+| Mathematics & Statistics | Probability, hypothesis testing, linear algebra |
+| Machine Learning | Preprocessing, feature engineering, model evaluation |
+| Deep Learning | Neural networks, computer vision, NLP |
+| MLOps | FastAPI, Docker, MLflow, CI/CD |
+| Big Data & Cloud | Apache Spark, cloud computing |
+| Generative AI | LLMs, Transformers, RAG, vector databases |
+| Agentic AI | Tool-using agents, planning, multi-agent systems |
 
-*These are learning areas from my course roadmap, not a claim that I have mastered every technology.*
+These are course learning areas. My practical experience in each technology will grow as I complete the relevant coursework and projects.
+
+## 🛠️ Technologies
+
+### Current Learning Focus
+
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Foundations-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Foundations-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github&logoColor=white)
+
+### Technologies Planned Through My Course
+
+NumPy · Pandas · Matplotlib · Seaborn · Plotly · Scikit-learn · TensorFlow · PyTorch · FastAPI · Docker · MLflow · Apache Spark · LangChain
+
+I will update this section as I gain hands-on experience with these tools.
+
+## 📂 Featured Projects
+
+### 1. AI & Data Science Journey
+
+My ongoing repository for Python practice, programming exercises, and practical projects.
+
+[Explore AI-Data-Science-Journey](https://github.com/muhammadbinwajih239/AI-Data-Science-Journey)
+
+### 2. Class Report Card System
+
+A Python project that manages student records, calculates grades, and generates a report.
+
+[Explore the project repository](https://github.com/muhammadbinwajih239/AI-Data-Science-Journey/tree/main/Projects/Class-Report-Card-System)
+
+### 3. Event Planner Website
+
+A collaborative web development project built with HTML and CSS.
+
+[Explore Event-Planner](https://github.com/muhammadbinwajih239/Event-Planner)
+
+## 🎯 What I'm Working Toward
+
+- Strengthening Python and programming fundamentals
+- Learning data analysis with real datasets
+- Building and evaluating Machine Learning models
+- Exploring LLM applications and Retrieval-Augmented Generation (RAG)
+- Developing practical projects with clear documentation
+
+## 📈 My Approach
+
+- Understand concepts before relying on copied code
+- Practise consistently and learn from debugging
+- Document projects with clear instructions
+- Improve code quality as my skills develop
+- Build projects that demonstrate actual working knowledge
+
+## 🤝 Let's Connect
+
+- GitHub: [@muhammadbinwajih239](https://github.com/muhammadbinwajih239)
+- LinkedIn: [Muhammad Bin Wajih](https://www.linkedin.com/in/muhammad-bin-wajih/)
 
 ---
 
-## 📂 Projects
-
-I use GitHub to document my learning, practice programming, and build projects as my skills develop.
-
-- 🐍 **Python Practice:** Programming fundamentals, problem-solving, and exercises.
-- 🌐 **Web Foundations:** HTML and CSS practice projects.
-- 📊 **Data Science Projects:** Planned as I progress through NumPy, Pandas, statistics, and visualization.
-- 🤖 **AI Projects:** Future projects as I develop the necessary Machine Learning and AI skills.
-
-Explore my repositories below to see my actual code and project progress.
-
----
-
-## 📈 My Learning Philosophy
-
-- Learn the fundamentals before moving to advanced topics.
-- Write code and practise consistently.
-- Understand errors and learn to debug them.
-- Build projects that solve real problems.
-- Document my work clearly and improve it through feedback.
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/muhammad-bin-wajih-a9aa043b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/muhammadbinwajih239">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:muhammadbinwajih239@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<p align="center">
+  <i>Learning continuously. Building practically. Improving with every project.</i>
 </p>
-
----
-
-*Learning step by step. Building with purpose. Growing through practice.* 🚀
