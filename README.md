@@ -15,7 +15,7 @@ My goal is to grow from programming fundamentals to building useful, data-driven
 - 📚 Studying Artificial Intelligence and Data Science through a structured learning program
 - 🧠 Interested in Machine Learning, Deep Learning, Generative AI, and AI Agents
 - 🛠️ Focused on hands-on practice, practical projects, and continuous improvement
-- 🎯 Working toward building a strong, project-based technical portfolio
+- 🎯 Working towards building a strong, project-based technical portfolio
 
 ---
 
