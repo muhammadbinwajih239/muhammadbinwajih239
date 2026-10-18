@@ -42,7 +42,6 @@ My goal is to grow from programming fundamentals to building useful, data-driven
 | Generative AI | LLMs, Transformers, Prompt Engineering, RAG, Vector Databases |
 | Agentic AI | AI Agents, Tool Use, Planning, Multi-Agent Systems |
 
-*These are learning areas from my course roadmap, not a claim that I have mastered every technology.*
 
 ---
 
